@@ -1,4 +1,4 @@
-<style>
+
         p{
             color: rgb(180, 200, 111);
 
@@ -14,5 +14,9 @@
             color: palegoldenrod;
 
         }
-       
-    </style>
+
+        body {
+
+            color: coral;
+
+        }
