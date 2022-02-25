@@ -16,3 +16,52 @@ div {
 
 
 }
+
+/* közvetlen gyerek szelektor */
+
+body p {
+    background-color: purple;
+
+
+}
+
+li.barna+li {   
+
+    background-color: gold;
+
+
+
+}
+p:first-child{
+    font-size: 31px;
+
+
+}
+
+p:first-of-type{
+
+    color: gray;
+
+
+
+
+
+
+}
+
+ol li:nth-child(4){
+    font-family:'Courier New', Courier, monospace;
+
+
+
+}
+
+
+
+
+
+td:nth-child(2n+1) {
+
+
+    background-color: khaki;
+}
