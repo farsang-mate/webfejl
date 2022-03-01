@@ -5,22 +5,28 @@
 } */
 
 p{
-
+    font-size: 12rem;
     font-style: italic;
-
-    font-weight: bold;
-
-
-
-
-
 }
 
 #p4 {
 
     font-style: normal;
 
-    font-weight: normal;
+    font-weight: bold;
+
+
+
+
+}
+#p7 {
+    font-family: fantasy;
+
+
+
+}
+
+#p8 {
 
 
 
